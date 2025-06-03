@@ -1,4 +1,4 @@
-#counter{
+.counter-Container{
     display: block;
     margin: 50px auto;
     padding: 10px;
@@ -9,7 +9,7 @@
     border-radius: 15px;
 }
 
-#myH1{
+.myH1{
     display: block;
     font-size: 8em;
     text-align: center;
@@ -23,7 +23,7 @@
     border: 4px double rgb(143, 138, 138);
     border-radius: 15px;
 }
-#container{
+.container{
     text-align: center;
     margin-top: 2em;
     margin-bottom: 1em;

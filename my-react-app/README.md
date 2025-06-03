@@ -5,6 +5,7 @@ This is a counter program. You can Increment, Reset and Decrement the count.
 - HTML
 - CSS
 - JAVASCRIPT
+- REACT
 
 # Play the program
 Check the counter on your own by clicking the link below.
